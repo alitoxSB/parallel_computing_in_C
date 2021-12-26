@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alejandro/CLionProjects/approximationPiwithMontecarlo/main.c
+math.h
+-
+string.h
+-
+stdlib.h
+-
+stdio.h
+-
+
